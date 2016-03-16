@@ -13,6 +13,7 @@
       2,
       2
     ],
+    "no-var": 2,
     "one-var": [
       2,
       "never"
@@ -28,6 +29,10 @@
         "anonymous": "always",
         "named": "never"
       }
+    ],
+    "space-before-blocks" : [
+      2,
+      "always"
     ],
     "keyword-spacing": [
       2,
